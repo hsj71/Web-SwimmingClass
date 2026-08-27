@@ -1,6 +1,6 @@
 # SwimmingClass  
-[Live Demo](https://hsj71.github.io/SwimmingClass/)  
-## https://hsj71.github.io/SwimmingClass/
+
+## [https://hsj71.github.io/SwimmingClass/](https://hsj71.github.io/Web-SwimmingClass/)
 ---
 ### Description  
 SwimmingClass is an online platform designed to help users learn swimming through structured lessons and interactive tutorials. The platform offers various difficulty levels and personalized progress tracking.  
